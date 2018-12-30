@@ -1,0 +1,7 @@
+.gitattributes
+cydo
+Sileo
+.theos
+obj
+packages
+Sileo.h

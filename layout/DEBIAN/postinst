@@ -1,0 +1,4 @@
+#!/bin/bash
+
+chmod 4755 /Applications/Sileo.app/silo
+exit 0
